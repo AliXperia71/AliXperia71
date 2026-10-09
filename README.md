@@ -17,23 +17,22 @@ I care about:
 
 ---
 
-## Tech Stack
+## Technical Stack
 
 ### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+Python, Java, JavaScript, C, C++, SQL, HTML/CSS, Swift
 
-### Frontend & Web
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+### AI / ML
+PyTorch, TensorFlow, Azure OpenAI, OpenAI / Anthropic / Gemini APIs, Ollama, Hugging Face, Prompt Engineering
 
-### AI/ML & Tools
-![OpenAI API](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF6B6B?style=for-the-badge)
+### Cloud & Tools
+Microsoft Azure, AWS (Bedrock, Amplify), FastAPI, SQLAlchemy, Docker, Redis, Git, Linux (Debian/Ubuntu)
 
-### Development
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### Certifications
+Microsoft Certified: Azure Fundamentals (AZ-900)  
+Azure Data Fundamentals (DP-900)  
+AWS Certified AI Practitioner (AIF-C01)  
+Anthropic: AI Fluency Framework & Foundations
 
 ---
 
