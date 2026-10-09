@@ -42,7 +42,7 @@ Anthropic: AI Fluency Framework & Foundations
 An intelligent web application that generates personalized learning paths tailored to individual goals and learning styles.
 
 - **Tech Stack:** JavaScript, React, Vercel
-- **Live Demo:** https://learning-path-generator-five.vercel.app
+- **Live Demo:** https://courseforgeapp.ai
 - **What I'm Proud Of:** Full-stack implementation from concept to deployment, seamless user experience design
 
 ### 🤖 [Prompt Engineering with OpenAI API](https://github.com/AliXperia71/Prompt-Engineering-OpenAI-API-Project)
