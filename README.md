@@ -70,7 +70,7 @@ I’m an Honors Computer Science student at George Mason University, passionate 
 A personalized learning roadmap project designed to help users build structured paths based on goals and interests.
 
 - GitHub: https://github.com/AliXperia71/Learning-Path-Generator
-- Live Demo: https://learning-path-generator-five.vercel.app
+- Live Demo: https://courseforgeapp.ai
 
 ### 🤖 Prompt Engineering OpenAI API Project
 Exploring prompt design, LLM behavior, and practical AI workflows using the OpenAI API.
