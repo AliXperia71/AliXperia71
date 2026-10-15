@@ -1,7 +1,7 @@
 # Hi, I'm Ali Aamir 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Honors+CS+Student+%40+George+Mason+University;AI%2FML+Engineering+Learner;Software+Developer;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Honors+CS+Student+%40+George+Mason+University;AI%2FML+Engineering;Software+Developer" alt="Typing SVG" />
 </p>
 
 I’m an Honors Computer Science student at George Mason University, passionate about AI/ML engineering, software development, and building projects that solve real-world problems. I’m currently learning and growing in the AI and ML space while building practical, impactful tools.
